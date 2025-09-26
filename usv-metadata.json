@@ -1,0 +1,10 @@
+{
+  "name": "Ultra Smooth Vape Token",
+  "symbol": "USV",
+  "description": "The official utility token for Ultra Smooth Vape ecosystem",
+  "image": "https://raw.githubusercontent.com/0xdopewilly/usv-token-assets/main/USV.png",
+  "extensions": {
+    "website": "https://ultrasmoothvape.com/",
+    "twitter": "https://twitter.com/ultrasmoothvape"
+  }
+}
